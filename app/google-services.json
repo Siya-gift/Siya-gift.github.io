@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "192430836414",
+    "firebase_url": "https://birdescort-database-default-rtdb.firebaseio.com",
+    "project_id": "birdescort-database",
+    "storage_bucket": "birdescort-database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192430836414:android:280ec022ade17d5bc2ecef",
+        "android_client_info": {
+          "package_name": "com.EticketApp.buyTicket"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGoDsg5gPdZlOVwzM8y77O0hAZe1tNiWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192430836414:android:6d0be2303fa106b8c2ecef",
+        "android_client_info": {
+          "package_name": "com.example.birdescort"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGoDsg5gPdZlOVwzM8y77O0hAZe1tNiWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

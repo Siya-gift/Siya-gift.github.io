@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#FFBB86FC</color>
+    <color name="colorPrimary">#FF6200EE</color>
+    <color name="colorPrimaryDark">#FF3700B3</color>
+    <color name="colorSecondary">#FF03DAC5</color>
+    <color name="colorSecondaryVariant">#FF018786</color>
+    <color name="colorOnSecondary">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!--    more colors-->
+    <color name="richblackfogra29">#020202</color>
+    <color name="richblackfogra39">#010101</color>
+    <color name="raisinblack">#1c1c1c</color>
+    <color name="eerieblack">#151515</color>
+    <color name="lightgray">#cccccc</color>
+    <color name="gunmetal1">#595959</color>
+    <color name="gunmetal2">#757575</color>
+    <color name="gainsboro">#dfdfdf</color>
+    <color name="citrine">#a22d00</color>
+    <color name="xiketic">#8a8a8a</color>
+    <color name="grayx">#bdbdbd</color>
+    <color name="jet">#7d7d7d</color>
+</resources>
